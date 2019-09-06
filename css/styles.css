@@ -54,7 +54,7 @@ p {
 }
 
 .row {
-	width: 100%;
+	width: 75%;
 }
 
 @media (min-width: 992px) {
